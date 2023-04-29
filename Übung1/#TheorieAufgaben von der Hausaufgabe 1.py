@@ -1,3 +1,4 @@
+#
 #TheorieAufgaben von der Hausaufgabe 1
 
 import numpy as np 
